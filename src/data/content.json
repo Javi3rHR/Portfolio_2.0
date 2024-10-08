@@ -1,0 +1,238 @@
+{
+  "es": {
+    "header": {
+      "name": "Javier Herreros Rodríguez",
+      "title": "Desarrollador de Software Semi-Senior",
+      "location": "Albacete - España",
+      "downloadCV": "Descargar CV"
+    },
+    "about": {
+      "title": "Sobre mí",
+      "description": "Desarrollador de Software Semi-Senior con experiencia en el ciclo de vida completo del desarrollo de software. Especializado en el diseño y desarrollo utilizando Java (Spring Boot, JPA) y SQL (Oracle, SQL Server). Experiencia en tecnologías Frontend (React, Angular) y apasionado por la implementación de arquitecturas limpias (Clean/Hexagonal Architecture) y prácticas de desarrollo impulsado por pruebas (TDD). Con un enfoque en la calidad del código y la resolución de problemas complejos, he contribuido a proyectos exitosos, mejorando significativamente el rendimiento y la mantenibilidad de las aplicaciones. Disfruto compartiendo mis conocimientos y he apoyado a desarrolladores junior en su crecimiento profesional."
+    },
+    "skills": {
+      "title": "Mis Habilidades",
+      "list": [
+        "Java",
+        "Spring Boot",
+        "JPA",
+        "SQL (Oracle, SQL Server)",
+        "React",
+        "Angular",
+        "Clean Architecture",
+        "TDD",
+        "Git",
+        "Scrum",
+        "Kanban",
+        "XP",
+        "Jenkins",
+        "JBOSS",
+        "JUnit",
+        "Mockito",
+        "REST",
+        "SOAP"
+      ]
+    },
+    "experience": {
+      "title": "Experiencia Profesional",
+      "jobs": [
+        {
+          "company": "NTT DATA Europe & Latam",
+          "position": "Desarrollador Java Full-Stack",
+          "period": "Abril 2024 - Presente",
+          "description": "Desarrollo de soluciones tecnológicas para el sector público (Justicia), implementando y adaptando aplicaciones críticas que optimizan procesos judiciales.",
+          "tasks": [
+            "Análisis, diseño y desarrollo de funcionalidades personalizadas para aplicaciones judiciales.",
+            "Desarrollo y mantenimiento de bases de datos (Oracle SQL, PL/SQL).",
+            "Resolución de incidencias y soporte técnico a usuarios finales.",
+            "Mentoría a desarrolladores junior y promoción del aprendizaje colaborativo.",
+            "Participación activa en equipos ágiles (Scrum, Kanban, XP).",
+            "Implementación de pruebas unitarias y de integración (JUnit, Mockito).",
+            "Gestión de control de versiones y formación en Git, GitHub y GitFlow.",
+            "Despliegue de aplicaciones en entornos de desarrollo y preproducción (Jenkins, JBOSS)."
+          ]
+        },
+        {
+          "company": "Advantic Consultores",
+          "position": "Desarrollador Java Full-Stack",
+          "period": "Mayo 2022 - Abril 2024",
+          "description": "Desarrollo y personalización de soluciones empresariales, incluyendo la implementación de una aplicación crítica para la gestión de inspecciones técnicas de vehículos (ITV).",
+          "tasks": [
+            "Análisis, diseño y desarrollo de funcionalidades personalizadas para aplicaciones de gestión de ITV.",
+            "Mantenimiento y mejora continua de aplicaciones existentes.",
+            "Integración con sistemas externos (Ekon ERP) y bases de datos.",
+            "Despliegue de aplicaciones en entornos de producción.",
+            "Resolución de incidencias y soporte técnico a usuarios finales.",
+            "Colaboración en equipos ágiles y participación en todas las fases del desarrollo.",
+            "Mentoría y capacitación de otros miembros del equipo, incluyendo pair programming.",
+            "Impartición de formación en Git y GitHub para mejorar la colaboración del equipo."
+          ]
+        }
+      ]
+    },
+    "projects": {
+      "title": "Proyectos Personales",
+      "list": [
+        {
+          "name": "SportKing",
+          "description": "Aplicación para gestionar las reservas de instalaciones deportivas. Implementada con arquitectura limpia y prácticas de TDD.",
+          "links": [
+            {
+              "text": "Backend Repository",
+              "url": "https://github.com/Javi3rHR/SportKing_Backend"
+            },
+            {
+              "text": "Frontend Repository",
+              "url": "https://github.com/Javi3rHR/SportKing_Frontend"
+            }
+          ]
+        }
+      ]
+    },
+    "education": {
+      "title": "Educación",
+      "schools": [
+        {
+          "name": "I.E.S Virrey Morcillo",
+          "period": "2020-2022",
+          "degree": "Ciclo Formativo de Grado Superior",
+          "field": "Desarrollo de aplicaciones Web"
+        }
+      ]
+    },
+    "footer": {
+      "copyright": "© 2024 Javier Herreros Rodríguez. Todos los derechos reservados.",
+      "languages": {
+        "title": "Idiomas",
+        "list": [
+          {
+            "language": "Español",
+            "level": "Nativo"
+          },
+          {
+            "language": "Inglés",
+            "level": "Básico"
+          }
+        ]
+      }
+    }
+  },
+  "en": {
+    "header": {
+      "name": "Javier Herreros Rodríguez",
+      "title": "Semi-Senior Software Developer",
+      "location": "Albacete - Spain",
+      "downloadCV": "Descargar CV"
+    },
+    "about": {
+      "title": "About Me",
+      "description": "Semi-Senior Software Developer with experience in the complete software development lifecycle. Specialized in design and development using Java (Spring Boot, JPA) and SQL (Oracle, SQL Server). Experience in Frontend technologies (React, Angular) and passionate about implementing clean architectures (Clean/Hexagonal Architecture) and Test-Driven Development (TDD) practices. With a focus on code quality and complex problem-solving, I have contributed to successful projects, significantly improving application performance and maintainability. I enjoy sharing my knowledge and have supported junior developers in their professional growth."
+    },
+    "skills": {
+      "title": "My Skills",
+      "list": [
+        "Java",
+        "Spring Boot",
+        "JPA",
+        "SQL (Oracle, SQL Server)",
+        "React",
+        "Angular",
+        "Clean Architecture",
+        "TDD",
+        "Git",
+        "Scrum",
+        "Kanban",
+        "XP",
+        "Jenkins",
+        "JBOSS",
+        "JUnit",
+        "Mockito",
+        "REST",
+        "SOAP"
+      ]
+    },
+    "experience": {
+      "title": "Professional Experience",
+      "jobs": [
+        {
+          "company": "NTT DATA Europe & Latam",
+          "position": "Full-Stack Java Developer",
+          "period": "April 2024 - Present",
+          "description": "Development of technological solutions for the public sector (Justice), implementing and adapting critical applications that optimize judicial processes.",
+          "tasks": [
+            "Analysis, design, and development of custom features for judicial applications.",
+            "Development and maintenance of databases (Oracle SQL, PL/SQL).",
+            "Incident resolution and technical support for end users.",
+            "Mentoring junior developers and promoting collaborative learning.",
+            "Active participation in agile teams (Scrum, Kanban, XP).",
+            "Implementation of unit and integration tests (JUnit, Mockito).",
+            "Version control management and training in Git, GitHub, and GitFlow.",
+            "Deployment of applications in development and pre-production environments (Jenkins, JBOSS)."
+          ]
+        },
+        {
+          "company": "Advantic Consultores",
+          "position": "Full-Stack Java Developer",
+          "period": "May 2022 - April 2024",
+          "description": "Development and customization of business solutions, including the implementation of a critical application for managing vehicle technical inspections (ITV).",
+          "tasks": [
+            "Analysis, design, and development of custom features for ITV management applications.",
+            "Maintenance and continuous improvement of existing applications.",
+            "Integration with external systems (Ekon ERP) and databases.",
+            "Deployment of applications in production environments.",
+            "Incident resolution and technical support for end users.",
+            "Collaboration in agile teams and participation in all phases of development.",
+            "Mentoring and training of other team members, including pair programming.",
+            "Delivery of Git and GitHub training to improve team collaboration."
+          ]
+        }
+      ]
+    },
+    "projects": {
+      "title": "Personal Projects",
+      "list": [
+        {
+          "name": "SportKing",
+          "description": "Application to manage sports facility reservations. Implemented with clean architecture and TDD practices.",
+          "links": [
+            {
+              "text": "Backend Repository",
+              "url": "https://github.com/Javi3rHR/SportKing_Backend"
+            },
+            {
+              "text": "Frontend Repository",
+              "url": "https://github.com/Javi3rHR/SportKing_Frontend"
+            }
+          ]
+        }
+      ]
+    },
+    "education": {
+      "title": "Education",
+      "schools": [
+        {
+          "name": "I.E.S Virrey Morcillo",
+          "period": "2020-2022",
+          "degree": "Higher Level Training Cycle",
+          "field": "Web Application Development"
+        }
+      ]
+    },
+    "footer": {
+      "copyright": "© 2024 Javier Herreros Rodríguez. All rights reserved.",
+      "languages": {
+        "title": "Languages",
+        "list": [
+          {
+            "language": "Spanish",
+            "level": "Native"
+          },
+          {
+            "language": "English",
+            "level": "Basic"
+          }
+        ]
+      }
+    }
+  }
+}
