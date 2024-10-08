@@ -2,13 +2,13 @@
   "es": {
     "header": {
       "name": "Javier Herreros Rodríguez",
-      "title": "Desarrollador de Software Semi-Senior",
+      "title": "Desarrollador Java Full-Stack",
       "location": "Albacete - España",
       "downloadCV": "Descargar CV"
     },
     "about": {
       "title": "Sobre mí",
-      "description": "Desarrollador de Software Semi-Senior con experiencia en el ciclo de vida completo del desarrollo de software. Especializado en el diseño y desarrollo utilizando Java (Spring Boot, JPA) y SQL (Oracle, SQL Server). Experiencia en tecnologías Frontend (React, Angular) y apasionado por la implementación de arquitecturas limpias (Clean/Hexagonal Architecture) y prácticas de desarrollo impulsado por pruebas (TDD). Con un enfoque en la calidad del código y la resolución de problemas complejos, he contribuido a proyectos exitosos, mejorando significativamente el rendimiento y la mantenibilidad de las aplicaciones. Disfruto compartiendo mis conocimientos y he apoyado a desarrolladores junior en su crecimiento profesional."
+      "description": "Desarrollador Java Full-Stack con sólida experiencia en el desarrollo y personalización de soluciones empresariales. He trabajado en la implementación y adaptación de aplicaciones críticas que optimizan procesos y mejoran la eficiencia. Especializado en Java (Spring Boot, JPA) y SQL (Oracle, SQL Server), con experiencia en tecnologías frontend (React, Angular). Comprometido con la implementación de arquitecturas limpias y la práctica de desarrollo impulsado por pruebas. Disfruto compartiendo mis conocimientos y apoyando a desarrolladores junior en su crecimiento profesional."
     },
     "skills": {
       "title": "Mis Habilidades",
@@ -40,15 +40,16 @@
           "company": "NTT DATA Europe & Latam",
           "position": "Desarrollador Java Full-Stack",
           "period": "Abril 2024 - Presente",
-          "description": "Desarrollo de soluciones tecnológicas para el sector público (Justicia), implementando y adaptando aplicaciones críticas que optimizan procesos judiciales.",
+          "description": "Desarrollador Java Full-Stack con experiencia en el diseño y desarrollo de soluciones tecnológicas para el sector público (Justicia). He participado en la implementación y adaptación de aplicaciones críticas que optimizan procesos judiciales, mejorando la eficiencia y la transparencia en la gestión de información.",
           "tasks": [
-            "Análisis, diseño y desarrollo de funcionalidades personalizadas para aplicaciones judiciales.",
-            "Desarrollo y mantenimiento de bases de datos (Oracle SQL, PL/SQL).",
-            "Resolución de incidencias y soporte técnico a usuarios finales.",
-            "Mentoría a desarrolladores junior y promoción del aprendizaje colaborativo.",
-            "Participación activa en equipos ágiles (Scrum, Kanban, XP).",
-            "Implementación de pruebas unitarias y de integración (JUnit, Mockito).",
-            "Gestión de control de versiones y formación en Git, GitHub y GitFlow.",
+            "Análisis, diseño y desarrollo de funcionalidades personalizadas, asegurando la alineación con los requisitos del negocio.",
+            "Análisis, desarrollo y mantenimiento de bases de datos (Oracle SQL, SQL Developer, PL/SQL, DBeaver).",
+            "Resolución de incidencias y soporte técnico a usuarios finales, asegurando la estabilidad y disponibilidad de las aplicaciones (Jira).",
+            "Apoyo a compañeros y desarrolladores juniors, promoviendo el aprendizaje y la colaboración dentro del equipo.",
+            "Colaboración en equipos ágiles, participando activamente en todas las fases del desarrollo, desde la planificación hasta la entrega (Scrum, Kanban, XP).",
+            "Uso de herramientas de gestión de tareas como Jira, Notion, Microsoft Teams y SharePoint para la coordinación y seguimiento de proyectos.",
+            "Realización de pruebas unitarias y de integración para asegurar la calidad del software (JUnit, Mockito).",
+            "Implantación y gestión del control de versiones, proporcionando formación a otros compañeros en el uso de Git, GitHub, la metodología GitFlow y Subversion.",
             "Despliegue de aplicaciones en entornos de desarrollo y preproducción (Jenkins, JBOSS)."
           ]
         },
@@ -56,16 +57,16 @@
           "company": "Advantic Consultores",
           "position": "Desarrollador Java Full-Stack",
           "period": "Mayo 2022 - Abril 2024",
-          "description": "Desarrollo y personalización de soluciones empresariales, incluyendo la implementación de una aplicación crítica para la gestión de inspecciones técnicas de vehículos (ITV).",
+          "description": "Desarrollador Java Full-Stack con sólida experiencia en el desarrollo y personalización de soluciones empresariales. Llevé a cabo la implementación y adaptación de una aplicación crítica para la gestión de inspecciones técnicas de vehículos (ITV) en múltiples estaciones, optimizando los procesos y mejorando la eficiencia.",
           "tasks": [
-            "Análisis, diseño y desarrollo de funcionalidades personalizadas para aplicaciones de gestión de ITV.",
-            "Mantenimiento y mejora continua de aplicaciones existentes.",
-            "Integración con sistemas externos (Ekon ERP) y bases de datos.",
+            "Análisis, diseño y desarrollo de funcionalidades personalizadas, asegurando la alineación con los requisitos del negocio.",
+            "Mantenimiento de aplicaciones existentes, realizando actualizaciones y mejoras continuas para asegurar su correcto funcionamiento y adaptarlas a nuevas necesidades.",
+            "Integración de la aplicación con otros sistemas (Ekon ERP, Servicios SOAP y REST) y bases de datos, garantizando una fluida comunicación entre los diferentes componentes.",
             "Despliegue de aplicaciones en entornos de producción.",
-            "Resolución de incidencias y soporte técnico a usuarios finales.",
-            "Colaboración en equipos ágiles y participación en todas las fases del desarrollo.",
-            "Mentoría y capacitación de otros miembros del equipo, incluyendo pair programming.",
-            "Impartición de formación en Git y GitHub para mejorar la colaboración del equipo."
+            "Resolución de incidencias y soporte técnico a usuarios finales, asegurando la estabilidad y disponibilidad de las aplicaciones.",
+            "Colaboración en equipos ágiles, participando activamente en todas las fases del desarrollo, desde la planificación hasta la entrega.",
+            "Mentoría y capacitación de otros miembros del equipo, promoviendo el conocimiento compartido y el crecimiento profesional. En particular, me he dedicado a la práctica de pair programming para facilitar la transferencia de conocimientos y mejorar la calidad del código.",
+            "Impartición de una formación en Git y GitHub para todo el equipo, lo que permitió mejorar la colaboración y el control de versiones."
           ]
         }
       ]
@@ -75,7 +76,11 @@
       "list": [
         {
           "name": "SportKing",
-          "description": "Aplicación para gestionar las reservas de instalaciones deportivas. Implementada con arquitectura limpia y prácticas de TDD.",
+          "description": "Aplicación para gestionar la reserva de pistas de diferentes deportes en distintos horarios disponibles. Cuenta con gestión de usuarios y roles. Esta aplicación fue un proyecto enriquecedor que me permitió aprender y aplicar conceptos clave del desarrollo de software, especialmente en lo que respecta a la gestión de proyectos y la resolución de problemas.",
+          "details": [
+            "Aprendí mucho sobre seguridad y protocolos como JWT.",
+            "Me ayudó a iniciarme en el mundo de las API REST y en los Frameworks de JavaScript."
+          ],
           "links": [
             {
               "text": "Backend Repository",
@@ -120,13 +125,13 @@
   "en": {
     "header": {
       "name": "Javier Herreros Rodríguez",
-      "title": "Semi-Senior Software Developer",
+      "title": "Full-Stack Java Developer",
       "location": "Albacete - Spain",
-      "downloadCV": "Descargar CV"
+      "downloadCV": "Download CV"
     },
     "about": {
       "title": "About Me",
-      "description": "Semi-Senior Software Developer with experience in the complete software development lifecycle. Specialized in design and development using Java (Spring Boot, JPA) and SQL (Oracle, SQL Server). Experience in Frontend technologies (React, Angular) and passionate about implementing clean architectures (Clean/Hexagonal Architecture) and Test-Driven Development (TDD) practices. With a focus on code quality and complex problem-solving, I have contributed to successful projects, significantly improving application performance and maintainability. I enjoy sharing my knowledge and have supported junior developers in their professional growth."
+      "description": "Full-Stack Java Developer with solid experience in the development and customization of business solutions. I have worked on the implementation and adaptation of critical applications that optimize processes and improve efficiency. Specialized in Java (Spring Boot, JPA) and SQL (Oracle, SQL Server), with experience in frontend technologies (React, Angular). Committed to implementing clean architectures and test-driven development practices. I enjoy sharing my knowledge and supporting junior developers in their professional growth."
     },
     "skills": {
       "title": "My Skills",
@@ -158,15 +163,16 @@
           "company": "NTT DATA Europe & Latam",
           "position": "Full-Stack Java Developer",
           "period": "April 2024 - Present",
-          "description": "Development of technological solutions for the public sector (Justice), implementing and adapting critical applications that optimize judicial processes.",
+          "description": "Full-Stack Java Developer with experience in the design and development of technological solutions for the public sector (Justice). I have participated in the implementation and adaptation of critical applications that optimize judicial processes, improving efficiency and transparency in information management.",
           "tasks": [
-            "Analysis, design, and development of custom features for judicial applications.",
-            "Development and maintenance of databases (Oracle SQL, PL/SQL).",
-            "Incident resolution and technical support for end users.",
-            "Mentoring junior developers and promoting collaborative learning.",
-            "Active participation in agile teams (Scrum, Kanban, XP).",
-            "Implementation of unit and integration tests (JUnit, Mockito).",
-            "Version control management and training in Git, GitHub, and GitFlow.",
+            "Analysis, design, and development of custom features, ensuring alignment with business requirements.",
+            "Development and maintenance of databases (Oracle SQL, SQL Developer, PL/SQL, DBeaver).",
+            "Incident resolution and technical support for end users, ensuring application stability and availability (Jira).",
+            "Supporting colleagues and junior developers, promoting learning and collaboration within the team.",
+            "Collaboration in agile teams, actively participating in all phases of development, from planning to delivery (Scrum, Kanban, XP).",
+            "Using task management tools like Jira, Notion, Microsoft Teams, and SharePoint for project coordination and tracking.",
+            "Implementation of unit and integration tests to ensure software quality (JUnit, Mockito).",
+            "Version control management, providing training to colleagues on the use of Git, GitHub, GitFlow methodology, and Subversion.",
             "Deployment of applications in development and pre-production environments (Jenkins, JBOSS)."
           ]
         },
@@ -174,16 +180,16 @@
           "company": "Advantic Consultores",
           "position": "Full-Stack Java Developer",
           "period": "May 2022 - April 2024",
-          "description": "Development and customization of business solutions, including the implementation of a critical application for managing vehicle technical inspections (ITV).",
+          "description": "Full-Stack Java Developer with solid experience in the development and customization of business solutions. I carried out the implementation and adaptation of a critical application for the management of vehicle technical inspections (ITV) at multiple stations, optimizing processes and improving efficiency.",
           "tasks": [
-            "Analysis, design, and development of custom features for ITV management applications.",
-            "Maintenance and continuous improvement of existing applications.",
-            "Integration with external systems (Ekon ERP) and databases.",
+            "Analysis, design, and development of custom features, ensuring alignment with business requirements.",
+            "Maintenance of existing applications, performing updates and continuous improvements to ensure their proper functioning and adapt to new needs.",
+            "Integration of the application with other systems (Ekon ERP, SOAP and REST services) and databases, ensuring smooth communication between different components.",
             "Deployment of applications in production environments.",
-            "Incident resolution and technical support for end users.",
-            "Collaboration in agile teams and participation in all phases of development.",
-            "Mentoring and training of other team members, including pair programming.",
-            "Delivery of Git and GitHub training to improve team collaboration."
+            "Incident resolution and technical support for end users, ensuring application stability and availability.",
+            "Collaboration in agile teams, actively participating in all phases of development, from planning to delivery.",
+            "Mentoring and training other team members, promoting knowledge sharing and professional growth. I have particularly focused on pair programming to facilitate knowledge transfer and improve code quality.",
+            "Conducted training on Git and GitHub for the entire team, improving collaboration and version control."
           ]
         }
       ]
@@ -193,7 +199,11 @@
       "list": [
         {
           "name": "SportKing",
-          "description": "Application to manage sports facility reservations. Implemented with clean architecture and TDD practices.",
+          "description": "Application to manage the reservation of sports courts at different available times. It includes user and role management. This application was an enriching project that allowed me to learn and apply key software development concepts, especially in project management and problem-solving.",
+          "details": [
+            "I learned a lot about security and protocols like JWT.",
+            "It helped me get started with the world of REST APIs and JavaScript frameworks."
+          ],
           "links": [
             {
               "text": "Backend Repository",
@@ -213,7 +223,7 @@
         {
           "name": "I.E.S Virrey Morcillo",
           "period": "2020-2022",
-          "degree": "Higher Level Training Cycle",
+          "degree": "Advanced Vocational Training",
           "field": "Web Application Development"
         }
       ]
