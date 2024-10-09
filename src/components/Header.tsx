@@ -16,7 +16,7 @@ const Header: React.FC = () => {
   };
 
   return (
-    <header className="bg-gradient-to-r from-blue-600 to-purple-600 text-white py-16">
+    <header className="bg-gradient-to-r from-blue-600 to-purple-600 text-white py-14">
       <div className="container mx-auto px-4">
         <h1 className="text-5xl font-bold mb-4">{t('header.name')}</h1>
         <h2 className="text-3xl mb-6">{t('header.title')}</h2>
