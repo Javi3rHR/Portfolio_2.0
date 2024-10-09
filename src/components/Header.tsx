@@ -26,10 +26,10 @@ const Header: React.FC = () => {
             <Mail className="w-6 h-6 mr-2" />
             javi3rhr@gmail.com
           </a>
-          <a href="tel:+34644477912" className="flex items-center hover:text-blue-200 transition-colors duration-300">
+          /*<a href="tel:+34644477912" className="flex items-center hover:text-blue-200 transition-colors duration-300">
             <Phone className="w-6 h-6 mr-2" />
             (34) 644 47 79 12
-          </a>
+          </a>*/
           <a href="https://github.com/Javi3rHR" target="_blank" rel="noopener noreferrer" className="flex items-center hover:text-blue-200 transition-colors duration-300">
             <Github className="w-6 h-6 mr-2" />
             GitHub
